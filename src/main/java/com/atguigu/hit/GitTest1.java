@@ -8,5 +8,6 @@ public class GitTest1 {
         System.out.println("牛逼的啊");
         System.out.println("我不接受");
         System.out.println("idea push github");
+        System.out.println("idea pull github");
     }
 }
